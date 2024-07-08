@@ -1,0 +1,62 @@
+// Full-Stack JS Developer (Node.js)
+
+// досвід роботи з JavaScript/TypeScript, Node.js, Express;
+// розуміння баз даних Postgres, MySql, MongoDB;
+// вміння працювати з React, Next.js, React-Native, Docker;
+// комунікабельність.
+
+// Создать список проектов которьие я разработал и дать на них ссьілку в GitHub.
+
+// Монго DB 
+// https://github.com/AlecCross/smartphone-camera-sensors-compare
+
+// MySql 
+
+// PostgreSQL 
+// https://github.com/AlecCross/next-js-feya-new
+
+// Next.js
+// https://github.com/AlecCross/next-js-feya-new
+// https://github.com/AlecCross/locksmith
+// https://github.com/AlecCross/next-ffmpeg
+// https://github.com/AlecCross/next-unity
+
+// React:
+// https://github.com/feya-bilyzna/feya-bilyzna.github.io
+// https://github.com/AlecCross/gumi-sounds-red-bird
+// https://github.com/AlecCross/convert-images-to-webp-react
+// https://github.com/AlecCross/the-social-network-react
+
+// https://github.com/AlecCross/aleccross.github.io
+// https://github.com/AlecCross/Runner-Game-Unity3d-WebGL
+// https://github.com/AlecCross/Runner-Game-Unity3d-v2
+// https://github.com/AlecCross/Runner-Game-Unity3d
+// https://github.com/AlecCross/react-sign-in-button
+// https://github.com/AlecCross/RvsT_Exploring-Unity2D
+// https://github.com/AlecCross/Pacman_gitignore-Unity3d
+// https://github.com/AlecCross/Unity-ControlCameraForMouseAndWASD
+
+// CSS-JS
+
+// https://github.com/AlecCross/01-cards-sources
+// https://github.com/AlecCross/02-DragAndDrop
+// https://github.com/AlecCross/03-ImageSlider
+// https://github.com/AlecCross/04-HoverBoard
+// https://github.com/AlecCross/05-AIM-Game
+
+// DesctopApp Electron:
+// https://github.com/AlecCross/node.js-jimp-watermark
+// https://github.com/AlecCross/node.js-jimp-electron-watermark
+
+// Hosts:
+// GitHub Pages Many React.js  projects (Vanilla js)
+// Vercel  All next.js projects
+// Netlify   Use DNS server names
+// Heroku
+// Setup Linux Local PC https://github.com/AlecCross/ubuntu-server-setup-guide-for-django-api
+
+
+// Light House Optimisation
+// Google Search Console
+// Google Analitics
+// Bing Webmaster Tools
