@@ -19,15 +19,24 @@ export default function Home() {
           </div>
           <div className={styles.block}>
             <ul>
-              <li>Postgres (Vercel Postgres), Prisma</li>
-              <li>MongoDB</li>
+              <li>Next.js</li>
+              <li>React.js</li>
+              <li>React Native</li>
+            </ul>
+          </div>
+          <div className={styles.block}>
+            <div>Styles</div>
+            <ul>
+              <li>Figma</li>
+              <li>Module CSS</li>
+              <li>Materialize</li>
+              <li>Bootstrap</li>
             </ul>
           </div>
           <div className={styles.block}>
             <ul>
-              <li>React.js</li>
-              <li>Next.js</li>
-              <li>React-Native</li>
+              <li>Postgres (Vercel Postgres), Prisma</li>
+              <li>MongoDB</li>
             </ul>
           </div>
           <div className={styles.block}>
@@ -38,18 +47,18 @@ export default function Home() {
             </ul>
           </div>
           <div className={styles.block}>
+            <ul>
+              <li>GitHub</li>
+              <li>Trello</li>
+            </ul>
+          </div>
+          <div className={styles.block}>
             <div>Hosts</div>
             <ul>
               <li>GitHub Pages Many React.js projects (Vanilla js)</li>
               <li>Vercel All next.js projects</li>
               <li>Netlify Use DNS server names</li>
               <li>Heroku</li>
-              <li>
-                Setup Linux Local PC
-                <a href="https://github.com/AlecCross/ubuntu-server-setup-guide-for-django-api" target="_blank" rel="noopener noreferrer">
-                  GitHub Repo
-                </a>
-              </li>
             </ul>
           </div>
           <div className={styles.block}>

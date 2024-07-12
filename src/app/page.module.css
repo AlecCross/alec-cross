@@ -8,20 +8,23 @@
   padding-top: 20px;
   padding-bottom: 20px;
   padding: 20px;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .container {
+  
   margin: 0 auto;
   width: 70%;
 }
 
 .block {
   padding-bottom: 10px;
+  padding-left: 10px;
 }
 
 .title {
   font-size: 40px;
+  margin-bottom: 15px;
 }
 
 .container2 {
@@ -41,7 +44,8 @@
   background-color: #000;
   border: 2px solid #00FF00;
   border-radius: 60px;
-  padding: 20px;
+  padding: 30px;
+  padding-left: 60px;
   width: 100%; /* Ensure it takes full width */
   max-width: 1440px; /* Set a max width for larger screens */
   /* height: 80vh;  */
@@ -65,8 +69,8 @@
   rgba(255, 255, 255, 0.2) 75%, 
   transparent 75%, 
   transparent);
-  background-size: 50px 50px;
-  opacity: 0.2;
+  background-size: 270px 270px;
+  opacity: 0.1;
   pointer-events: none;
 }
 
