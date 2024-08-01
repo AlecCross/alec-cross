@@ -1,10 +1,5 @@
 .main {
-  color: rgb(15, 185, 24);
-  /* max-width: 100vw; */
-  /* min-width: 1440px; */
-  /* padding-left: 200px; */
-  /* padding-right: 200px; */
-  /* text-align: center; */
+  color: var(--fallout-text-collor);
   padding-top: 20px;
   padding-bottom: 20px;
   padding: 20px;
@@ -12,9 +7,19 @@
 }
 
 .container {
-  
   margin: 0 auto;
   width: 70%;
+}
+
+.title {
+  font-size: 55px;
+  margin-bottom: 15px;
+}
+
+.blockTitle {
+  font-size: 30px;
+  padding-bottom: 10px;
+  padding-left: 10px;
 }
 
 .block {
@@ -22,30 +27,25 @@
   padding-left: 10px;
 }
 
-.title {
-  font-size: 40px;
-  margin-bottom: 15px;
-}
-
 .container2 {
   margin: 0 auto;
-  width: 100%; /* Ensure it takes full width */
+  width: 100%;
   /* background-color: black; */
-  color: #00FF00; /* Green text */
+  color: #00ff00;
   /* height: 100vh; */
   display: flex;
   align-items: center;
   justify-content: center;
   /* Monospace font for old PC look */
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .monitor {
   background-color: #000;
-  border: 2px solid #00FF00;
+  border: 2px solid #00ff00;
   border-radius: 60px;
   padding: 30px;
-  padding-left: 60px;
+  /* padding-left: 60px; */
   width: 100%; /* Ensure it takes full width */
   max-width: 1440px; /* Set a max width for larger screens */
   /* height: 80vh;  */
@@ -54,21 +54,23 @@
 }
 
 .glare {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   border-radius: 20px;
-  background: linear-gradient(135deg, 
-  rgba(255, 255, 255, 0.2) 25%, 
-  transparent 25%, 
-  transparent 50%, 
-  rgba(255, 255, 255, 0.2) 50%, 
-  rgba(255, 255, 255, 0.2) 75%, 
-  transparent 75%, 
-  transparent);
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.2) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0.2) 75%,
+    transparent 75%,
+    transparent
+  );
   background-size: 270px 270px;
   opacity: 0.1;
   pointer-events: none;
@@ -84,9 +86,10 @@
     width: 90%;
   }
 }
-
+/* Dont work on microsoft mobile Edge */
 @media only screen and (min-width: 601px) and (orientation: portrait) {
   .main {
+    padding: 5px;
     margin: 0 auto;
     width: 99%;
   }

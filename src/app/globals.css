@@ -15,8 +15,10 @@
   --color-button: #0070f3;
   --color-button-text: #ffffff;
 
+  --fallout-text-collor: rgb(15, 185, 24);
+
   /* Font Sizes */
-  --font-size-title: 2rem;
+  --font-size-title: 55px;
   --font-size-subtitle: 1.5rem;
   --font-size-body: 1rem;
   --font-size-button: 1rem;
